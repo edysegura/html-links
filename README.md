@@ -10,6 +10,7 @@ My personal HTML links bookmark
 ## Courses
 
  * [Introduction to HTML and JavaScript](https://www.edx.org/course/introduction-html-javascript-microsoft-dev211-1x-0)
+ * [HTML5 from W3C](https://www.edx.org/xseries/html5-w3c#courses)
 
 ## References
 
