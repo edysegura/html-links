@@ -14,4 +14,5 @@ My personal HTML links bookmark
 
 ## References
 
+ - [HTML Periodic Table](https://madebymike.com.au/html5-periodic-table/)
  * [HTML Elements](https://meiert.com/en/indices/html-elements/)
