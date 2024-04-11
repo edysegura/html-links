@@ -2,6 +2,9 @@
 
 My personal HTML links bookmark
 
+## Tips
+- [21 HTML Tips](https://dev.to/devshefali/21-html-tips-you-must-know-about-55j7)
+
 ## Forms
 
 - [The Current State of HTML5 Forms](https://www.wufoo.com/html5/)
